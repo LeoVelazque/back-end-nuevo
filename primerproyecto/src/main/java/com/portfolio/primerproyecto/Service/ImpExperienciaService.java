@@ -30,13 +30,12 @@ public class ImpExperienciaService implements IExperienciaService {
 
     @Override
     public void deleteExperiencia(Long id) {
-        iexperienciaRepository.deleteById(id);
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 
     @Override
     public Experiencia findExperiencia(Long id) {
-        Experiencia experiencia = iexperienciaRepository.findById(id).orElse(null);
-        return experiencia;
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
 }

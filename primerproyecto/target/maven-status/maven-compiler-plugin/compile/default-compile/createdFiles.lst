@@ -1,0 +1,11 @@
+com\portfolio\primerproyecto\Service\ImpPersonaService.class
+com\portfolio\primerproyecto\Repository\IExperienciaRepository.class
+com\portfolio\primerproyecto\Controller\PersonaController.class
+com\portfolio\primerproyecto\Repository\IPersonaRepository.class
+com\portfolio\primerproyecto\Controller\ExperienciaController.class
+com\portfolio\primerproyecto\Entity\Experiencia.class
+com\portfolio\primerproyecto\Entity\Persona.class
+com\portfolio\primerproyecto\Service\ImpExperienciaService.class
+com\portfolio\primerproyecto\Interface\IPersonaService.class
+com\portfolio\primerproyecto\PrimerproyectoApplication.class
+com\portfolio\primerproyecto\Interface\IExperienciaService.class
